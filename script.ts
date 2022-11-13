@@ -1,4 +1,4 @@
-// var  messages : Array<string> = ['hello', 'again'];
+var  messages : Array<string> = ['hello', 'again'];
 
 // alert(messages);
 
@@ -21,3 +21,4 @@ var p2 : Product ={
 // les annotations 
 // extends (heritage)
 // implements  (les interfaces)
+// les types génriques (classes/ interfaces)
